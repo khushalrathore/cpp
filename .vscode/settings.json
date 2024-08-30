@@ -1,0 +1,9 @@
+{
+    "C_Cpp.codeAnalysis.clangTidy.checks.disabled": [
+        "clang-diagnostic-non-c-typedef-for-linkage",
+        "clang-diagnostic-error"
+    ],
+    "files.associations": {
+        "ios": "cpp"
+    }
+}
