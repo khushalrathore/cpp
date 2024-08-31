@@ -4,6 +4,9 @@
         "clang-diagnostic-error"
     ],
     "files.associations": {
-        "ios": "cpp"
+        "ios": "cpp",
+        "string": "cpp",
+        "map": "cpp",
+        "iostream": "cpp"
     }
 }
